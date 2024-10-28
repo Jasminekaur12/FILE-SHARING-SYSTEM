@@ -1,0 +1,10 @@
+fastapi==0.78.0
+FastAPI-SQLAlchemy==0.2.1
+fastapi-users==10.1.5
+fastapi-users-db-sqlalchemy==4.0.3
+pydantic==1.9.1
+alembic==1.13.3
+bcrypt==4.0.0
+psycopg2-binary==2.9.3
+SQLAlchemy==1.4.37
+uvicorn==0.17.6
